@@ -9,6 +9,6 @@ const root = createRoot(document.getElementById('root') as HTMLElement);
 
 root.render(
   <React.StrictMode>
-    <div>React app</div>
+    <div>React App</div>
   </React.StrictMode>
 );
