@@ -660,7 +660,7 @@ module.exports = function (webpackEnv) {
         }),
       !disableStyleLintPlugin &&
         new StylelintPlugin({
-          extensions: ['js', 'css', 'jsx', 'ts', 'tsx'],
+          extensions: ['css'],
           stylelintPath: require.resolve('stylelint'),
           failOnError: !(isEnvDevelopment && emitErrorsAsWarnings),
           context: paths.appSrc,

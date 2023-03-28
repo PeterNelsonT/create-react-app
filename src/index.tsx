@@ -1,5 +1,4 @@
 import 'configs/serviceWorker';
-import 'styles/normalize.css';
 import 'styles/index.css';
 
 import React from 'react';
