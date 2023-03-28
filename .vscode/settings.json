@@ -1,0 +1,9 @@
+{
+  "files.eol": "\n",
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": ["source.formatDocument", "source.fixAll"],
+  "eslint.validate": ["javascript", "typescript"],
+  "stylelint.validate": ["typescriptreact"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.rulers": [100, { "column": 100, "color": "#dc3545" }]
+}
