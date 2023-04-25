@@ -12,5 +12,11 @@
     .stringgreen {
       color: green;
     }
+
+    @media (max-width: 540px) {
+      .stringgreen {
+        color: red;
+      }
+    }
   }
 }
