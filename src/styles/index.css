@@ -59,3 +59,7 @@ input::-ms-reveal,
 input::-ms-clear {
   display: none !important;
 }
+
+:root {
+  --theme-primary: #006db7;
+}
